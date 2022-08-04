@@ -1,0 +1,39 @@
+body{
+  background-color: #212121;
+  font-family: sans-serif;
+  font-size: 16px;
+  color: white;
+}
+h1{
+  background-color: #FFB900;
+  color: black;
+  padding-top:32px;
+  padding-left:10px;
+}
+h2,strong{
+  color: orange;
+}
+img{
+  display: block;
+  height: auto;
+  border-radius: 8px;
+}
+.centre{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+button{
+  background-color: #FFB900;
+  text-align: center;
+  border:none;
+  font-weight: bold;
+  border-radius: 12px;
+  padding: 15px 32px;
+}
+button:hover{
+  background-color: #FF6D00;
+  color: white;
+  transition-duration: 0.4s;
+}
